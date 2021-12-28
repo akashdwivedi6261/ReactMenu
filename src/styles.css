@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App > div {
+  width: 17rem;
+  justify-content: space-between;
+  display: flex;
+  margin: auto;
+  margin-bottom: 2rem;
+}
